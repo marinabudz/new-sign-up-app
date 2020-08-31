@@ -1,7 +1,7 @@
 {
   "name": "new-sign-up-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "sign up app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,10 +11,19 @@
     "url": "git+https://github.com/marinabudz/new-sign-up-app.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "marina budz",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/marinabudz/new-sign-up-app/issues"
   },
-  "homepage": "https://github.com/marinabudz/new-sign-up-app#readme"
+  "homepage": "https://github.com/marinabudz/new-sign-up-app#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.4",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-react": "^7.10.4"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5"
+  }
 }
