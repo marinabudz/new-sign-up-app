@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "firstName": "marina",
+      "lastName": "budz",
+      "email": "budz.marina@gmail.comB1",
+      "password": "budz.marina@gmail.comB1",
+      "confirmPassword": "budz.marina@gmail.comB1",
+      "id": 2
+    },
+    {
+      "firstName": "stepam",
+      "lastName": "petrovych",
+      "email": "petrovych@gmail.vomM1",
+      "password": "petrovych@gmail.vomM1",
+      "confirmPassword": "petrovych@gmail.vomM1",
+      "id": 3
+    },
+    {
+      "firstName": "nngng",
+      "lastName": "mgmgmg",
+      "email": "mgmgmg@gmail.comB5",
+      "password": "mgmgmg@gmail.comB5",
+      "confirmPassword": "mgmgmg@gmail.comB5",
+      "id": 4
+    }
+  ]
+}
