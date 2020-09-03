@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "firstName": "marina",
+      "lastName": "budz",
+      "email": "budz.marina@gmail.comB1",
+      "password": "budz.marina@gmail.comB1",
+      "confirmPassword": "budz.marina@gmail.comB1",
+      "id": 2
+    }
+  ]
+}
